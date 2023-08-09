@@ -70,28 +70,3 @@ body {
   object-fit: cover;
   height: 100%;
 }
-.cont{
-    display: flex;
-    width: 500px;
-    height: 500px;
-    border: 1px solid white;
-    border-radius: 5px;
-    color: white;
-}
-.cont p{
-    width: 500px;
-    height: 500px;
-    min-width: 500px;
-    min-height: 500px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 10rem;
-    
-}
-.cont p:first-of-type{
-    background: rgba(12, 12, 167, 0.25);
-}
-.cont p:last-of-type{
-    background: rgba(10, 180, 101, 0.25);
-}
